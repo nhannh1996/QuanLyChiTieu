@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.assignment_ps03966_nguyenhoangnhan.MainActivity" >
+
+	 <item
+        android:id="@+id/them"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/them"
+        android:icon="@android:drawable/ic_input_add"/>
+	 <item
+        android:id="@+id/saoke"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/saoke"
+        android:icon="@android:drawable/arrow_down_float"
+       />
+	 <item
+        android:id="@+id/byNhan"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="Nhan"
+        android:icon="@android:drawable/ic_dialog_alert"
+       />
+</menu>

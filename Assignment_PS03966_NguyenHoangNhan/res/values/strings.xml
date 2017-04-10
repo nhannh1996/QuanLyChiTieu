@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quản lý chi tiêu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">By Nguyễn Hoàng Nhân</string>
+    <string name="them">Thêm giao dịch</string>
+    <string name="saoke">Sao kê</string>
+    <string name="title_activity_manager">Quản lý chi tiêu</string>
+    <string name="sodu">Số dư: </string>
+    <string name="chonngay">Chọn ngày tìm kiếm</string>
+    <string name="tungay">Từ ngày: </string>
+    <string name="denngay">Đến ngày: </string>
+    <string name="textview">textView</string>
+	<string name="loaigiaodich">Loại giao dịch: </string>
+	<string name="sotien">Số tiền: </string>
+	<string name="ngaygiaodich">Ngày giao dịch: </string>
+	<string name="rong">Có thể để trống</string>
+</resources>
